@@ -1,7 +1,9 @@
 var CACHE = 'machining-v1';
 var PRECACHE_URLS = [
-  '/', '/index.html', '/css/style.css',
-  '/js/services/db.js',
+  '/machining-app/',
+  '/machining-app/index.html',
+  '/machining-app/css/style.css',
+  '/machining-app/js/services/db.js',
   '/js/pages/dashboard.js', '/js/pages/orders.js',
   '/js/pages/order-detail.js', '/js/pages/daily-plan.js',
   '/js/pages/statistics.js', '/js/pages/settings.js', '/js/app.js',
