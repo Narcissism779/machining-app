@@ -1,8 +1,8 @@
 {
   "name": "机床加工订单管理",
   "short_name": "加工订单",
-  "description": "管理加工订单、每日工作计划与打卡",
-  "start_url": "/",
+  "start_url": "/machining-app/",
+  "scope": "/machining-app/",
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#1a56db",
